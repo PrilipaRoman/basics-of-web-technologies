@@ -25,6 +25,5 @@
 # Что нужно сделать?
 
 1. Скачать и установить Figma
-1. Приступить к выполнению ДЗ:
-    - Склонировать данный репозиторий. Для этого изучите [инструкцию](https://docs.google.com/document/d/e/2PACX-1vSkZYRiY3zNlW8DPHwXXfnuhjjDAI8jodC7k6cObdS1WMlOLs6flWqZflcTlXqxAoOhpHCFeoKYfD8K/pub) 
+1. Приступить к выполнению ДЗ. Перед началом изучите [методические рекомендации](https://docs.google.com/document/d/1dckKDgKSTg6hMoV2H7Fojhau6PfkAl1Y-Hrm3yqNz8o/edit?usp=sharing)
     
